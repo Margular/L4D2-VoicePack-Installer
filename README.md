@@ -2,11 +2,11 @@
 A smart voice pack installer for left for dead 2
 
 ## Usage
-1. download voice pack .vpk and put it into l4d2 addons folder(steamapps/common/Left 4 Dead 2/left4dead2/addons)
-2. simply download this tool from https://github.com/Margular/L4D2-VoicePack-Installer/releases, so easy right?
+1. download voice pack .vpk and put it into l4d2 addons folder(steamapps/common/Left 4 Dead 2/left4dead2/addons) or download from steam workshop(and vpk file will be placed into addons/workshop)
+2. simply download this tool from https://github.com/Margular/L4D2-VoicePack-Installer/releases and double click on it, so easy right?
 
 ## Supported format of vpk
-1. Now only support original pack of voice files, the structure of vpk like below
+1. Now only support original pack of voice files, the structure of vpk like below(https://steamcommunity.com/sharedfiles/filedetails/?id=1808529794)
 ![vpk-example](./assets/screenshots/vpk-example.png)
 
 ## To do
