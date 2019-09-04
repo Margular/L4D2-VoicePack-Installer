@@ -3,7 +3,7 @@
 
 ## 使用方法
 1. 下载.vpk文件的语音包放到addons目录下(steamapps/common/Left 4 Dead 2/left4dead2/addons)，或者从创意工坊下载(vpk文件会放到addons/workshop下)
-2. 下载工具：https://github.com/Margular/L4D2-VoicePack-Installer/releases，然后直接双击即可自动安装，很简单吧？
+2. 下载工具：https://github.com/Margular/L4D2-VoicePack-Installer/releases 然后直接双击即可自动安装，很简单吧？
 
 ## 支持的VPK文件格式
 1. 目前只支持按原始方式打包的语音包，如下图所示(https://steamcommunity.com/sharedfiles/filedetails/?id=1808529794)：
